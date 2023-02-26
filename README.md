@@ -17,4 +17,4 @@ Chapter 6: Functional endpoints and API nesting
 Chapter 7: Selective fields and related fieldsobjects
 
 
-You can go to tutorial part with switch branch or clicking on it in README file
+You can go to tutorial part with switch branch or click on it
