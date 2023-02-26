@@ -1,4 +1,4 @@
-# Tutorial_Django_REST_API
+# Tutorial Django REST API
 
 Topics:
 
