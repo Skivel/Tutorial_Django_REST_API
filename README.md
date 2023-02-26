@@ -2,7 +2,7 @@
 
 Topics:
 
-Chapter 1: CRUD
+[Chapter 1: CRUD](https://github.com/skivel/Tutorial_Django_REST_API/tree/Part_1_CRUD)
 
 Chapter 2: Login and Authentication
 
